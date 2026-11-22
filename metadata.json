@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Studio",
+  "description": "A fast, client-side photo and collage editor with non-destructive edit stack, 44+ film & mood presets, masks, curves, and HSL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
